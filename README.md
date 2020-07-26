@@ -4,3 +4,7 @@
 代码写得很辣鸡，除了界面，核心代码全都在 MainWindow.xaml.cs 中。
 
 XD
+
+demo：
+
+![demo](https://github.com/dds2333/Crypto_Tool/blob/master/demo.png)
